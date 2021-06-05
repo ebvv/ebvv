@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hey, i'm Eric 👋
 
 
 #### 🔭 I’m currently working on web development projects
