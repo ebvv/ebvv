@@ -8,4 +8,3 @@
 #### 📫 How to reach me: ericviana1369@gmail.com
 #### ⚡ Fun fact: I love when humans does something great
 
-<img>scr:https://www.rhbinformatica.com.br/arquivos/2017/10/logo-html-css.png</img>
