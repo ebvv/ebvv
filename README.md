@@ -1,7 +1,7 @@
 # Hey, i'm Eric 👋
 
 
-##### 🔭 I’m currently working on web development projects
+##### 💡 I’m currently working on web development and learning mobile development
 ##### 🌱 I’m currently learning responsive Css
 ##### 👾 I’m looking to collaborate on anything that i can help
 ##### 📫 How to reach me: ericviana1369@gmail.com
