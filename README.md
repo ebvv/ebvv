@@ -1,4 +1,4 @@
-### Hey, i'm Eric 👋
+## Hey, i'm Eric 👋
 
 
 ##### 💡 I’m currently working on web development and learning mobile development
@@ -7,6 +7,7 @@
 ##### ⚡ Fun fact: I like to draw and learn new languages
 ##### 📫 How to reach me: ericviana1369@gmail.com
 
+-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebvv&show_icons=true&theme=dark)
 
