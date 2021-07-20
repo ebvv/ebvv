@@ -4,19 +4,25 @@
 </p>
 
 <p align="left">
-  🦄 Languages: 
-· HTML, CSS and SASS
-· JavaScript
-· Gsap
-· Git and GitHub</strong>
+ 🧬 Languages:
+  <strong>
+    · HTML
+    · CSS
+    · SASS
+    · JavaScript
+    · Gsap
+    · Git and GitHub
+  </strong>
 </p>
 
 <p align="left">
-  💼 Expertise: <strong>
+ 🪐 Expertise: 
+  <strong>
 · XD, Figma
 · Illustrator
 · Photoshop
-· Scrum</strong>
+· Scru
+  </strong>
 </p>
 
 <p align="left">
