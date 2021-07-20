@@ -4,11 +4,19 @@
 </p>
 
 <p align="left">
-  🦄 Languages: <strong>Coloque as linguagens que você desenvolve.</strong>
+  🦄 Languages: 
+· HTML, CSS and SASS
+· JavaScript
+· Gsap
+· Git and GitHub</strong>
 </p>
 
 <p align="left">
-  💼 Expertise: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  💼 Expertise: <strong>
+· XD, Figma
+· Illustrator
+· Photoshop
+· Scrum</strong>
 </p>
 
 <p align="left">
@@ -16,8 +24,8 @@
 </p>
 
 <p align="left">
-  <a href="#" alt="Gmail">
+  <a href="ericviana1369@gmail.com" alt="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-EMAIL" /></a>
 
-  <a href="#" alt="Linkedin">
+  <a href="www.linkedin.com/in/eric-viana" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
