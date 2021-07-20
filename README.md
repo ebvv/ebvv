@@ -1,4 +1,4 @@
- # 👾 Hey, i'm Eric a developer and ui/ux designer.
+ # 👾 Hey, i'm Eric. A developer and ui/ux designer.
  ### 📚 I'm undergraduate B.Sc. in Information Systems passionate about technology and what it can do in our world.
 
 <p align="left">
