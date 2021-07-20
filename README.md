@@ -6,9 +6,9 @@
 <p align="left">
  🧬 Languages:
   <strong>
-    · HTML
-    · CSS
-    · SASS
+    · Html
+    · Css
+    · Sass
     · JavaScript
     · Gsap
     · Git and GitHub
@@ -18,7 +18,7 @@
 <p align="left">
  🪐 Expertise: 
   <strong>
-· XD, Figma
+· Xd/Figma
 · Illustrator
 · Photoshop
 · Scru
