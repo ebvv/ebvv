@@ -1,5 +1,5 @@
 
- ## 👾 Hey, i'm Eric a <strong>DEVELOPER AND UI/UX DESIGNER</strong>.
+ ## 👾 Hey, i'm Eric a DEVELOPER AND UI/UX DESIGNER.
  ####I'm undergraduate B.Sc. in Information Systems passionate about technology and what it can do in our world.
 
 <p align="left">
