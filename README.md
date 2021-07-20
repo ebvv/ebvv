@@ -1,5 +1,5 @@
 
- #### Hey, i'm Eric a <strong>DEVELOPER AND UI/UX DESIGNER</strong>.<br>
+ #### 🧠 Hey, i'm Eric a <strong>DEVELOPER AND UI/UX DESIGNER</strong>.<br>
  I'm undergraduate B.Sc. in Information Systems passionate about technology and what it can do in our world.
 
 <p align="left">
@@ -34,4 +34,4 @@
 
   <a href="www.linkedin.com/in/eric-viana
 " alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a>
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" /></a></p>
