@@ -1,6 +1,5 @@
-
- ## 👾 <bold>Hey, i'm Eric a DEVELOPER AND UI/UX DESIGNER.</bold>
- ### I'm undergraduate B.Sc. in Information Systems passionate about technology and what it can do in our world.
+ # 👾 Hey, i'm Eric a DEVELOPER AND UI/UX DESIGNER.
+ ## 📚 I'm undergraduate B.Sc. in Information Systems passionate about technology and what it can do in our world.
 
 <p align="left">
  🧬 Languages:
@@ -20,7 +19,7 @@
  Xd/Figma
 · Illustrator
 · Photoshop
-· Scru
+· Scrum
   </strong>
 </p>
 
