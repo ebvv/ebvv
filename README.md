@@ -1,5 +1,5 @@
- # Hey, i'm Eric, a developer <br/> and UI/UX designer. 👾
- ### I'm undergraduate B.Sc. in Information Systems passionate about technology and what it can do in our world.
+ ## Hey, what's Up? 👾
+ ##### My name is Eric, i'm undergraduate B.Sc. in Information Systems passionate about technology and what it can do in our world.
 
 <p align="left">
   🔑 Tools:
