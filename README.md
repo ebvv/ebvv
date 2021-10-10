@@ -3,7 +3,7 @@
 ## Get in Touch
 [Linkedin](https://www.linkedin.com/in/geteric/)
 <br>
-[Email](ericviana1369@gmail.com)
+[Email](mailto:ericviana1369@gmail.com)
 
 
 
