@@ -4,9 +4,7 @@
 * I am deeply interested in Art, Iot and Blockchain.
 # Get in touch! 📲
 * [Linkedin](https://www.linkedin.com/in/geteric/)
-<br>
 * [Email](mailto:ericviana1369@gmail.com)
-<br>
 * [AngelList](https://angel.co/u/geteric)
 
 
