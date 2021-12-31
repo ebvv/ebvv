@@ -3,6 +3,6 @@
 - I have full proficiency in English (c2) and Portuguese, as well some knowledge in Russian.
 - I am deeply interested in Art, Blockchain and User Experience Design.
 ---
-Take a look at some projects right below ↓
+# Take a look at some projects right below ↓
 
 
