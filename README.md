@@ -4,9 +4,13 @@
 - I have full proficiency in English (c2) and Portuguese, as well some knowledge in Russian.
 - I am deeply interested in Art, Blockchain and User Experience Design.    
 <pre>
-`-:-.   ,-;"`-:-.   ,-;"`-:-.   ,-;"`-:-.   ,-;"
-   `=`,'=/     `=`,'=/     `=`,'=/     `=`,'=/
-     y==/        y==/        y==/        y==/
-   ,=,-<=`.    ,=,-<=`.    ,=,-<=`.    ,=,-<=`.
-,-'-'   `-=_,-'-'   `-=_,-'-'   `-=_,-'-'   `-=_
+       _---~~(~~-_.
+     _{        )   )
+   ,   ) -~~- ( ,-' )_
+  (  `-,_..`., )-- '_,)
+ ( ` _)  (  -~( -_ `,  }
+ (_-  _  ~_-~~~~`,  ,' )
+   `~ -^(    __;-,((()))
+         ~~~~ {_ -_(())
+                `\  }
 </pre>
