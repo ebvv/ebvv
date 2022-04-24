@@ -1,6 +1,7 @@
-# 🧠🦾
-
-- My name is Eric, i'm a Software and Ux Developer obsessed with innovation.
-- I have full proficiency in English (c2) and Portuguese, as well some knowledge in Russian.
-- I am deeply interested in Art, Blockchain and User Experience Design.
-
+<h3 align="center">👋What’s Up, I'm Eric.</h3>
+ 
+<p align="center">
+  <a href="https://ericviana.com.br">Website</a> •
+  <a href="https://www.linkedin.com/in/eric-viana/">Linkedin</a> •
+  <a href="mailto: ericviana.com.br">Email</a>
+</p>
