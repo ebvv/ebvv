@@ -1,4 +1,4 @@
-<h2 align="center">👋What’s Up, I'm Eric.</h2>
+<h3 align="center">👋What’s Up, I'm Eric.</h3>
  
 <p align="center">
   <a href="https://ericviana.com.br">Website</a> •
