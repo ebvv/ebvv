@@ -1,7 +1,4 @@
-<p align="center">I’m Eric, and I’m a</p>
-<h1 align="center"> <del>Programmer</del> </h1>
-<h1 align="center"> <del>Designer</del> </h1>
-<h1 align="center">Maker</h1>
+<p align="center">Wasup, I’m Eric!</p>
  
 <p align="center">
   <a href="https://ericviana.com.br">Website</a> &nbsp • &nbsp
