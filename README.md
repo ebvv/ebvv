@@ -1,4 +1,4 @@
-<p align="center">Wasup, I’m Eric!</p>
+<h2 align="center">Wasup, I’m Eric!</h2>
  
 <p align="center">
   <a href="https://ericviana.com.br">Website</a> &nbsp • &nbsp
