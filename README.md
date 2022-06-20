@@ -1,4 +1,4 @@
-## Wasup?!
+# Wasup?!
 
 > Hey, my name is Eric. You can find more about me in this link below.
 
