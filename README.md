@@ -1,3 +1,4 @@
 ## 👋 Wasup?!
 
-> Hi, my name is **Eric**. In this [link](https://ericviana.com.br) you can find more  <br/> about what I do and who I am.
+> Software engineering world-class projects and pursuing the cutting edge of everything I do. 
+> I speak four languages and much of my ethos comes from my eagerness to practice novel ways of 'hacking' things and learn through constant experimentation.
